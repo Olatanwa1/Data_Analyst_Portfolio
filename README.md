@@ -9,9 +9,9 @@ Throughout my journey, I've gained experience using data to uncover trends and h
 
 I am always eager to learn and grow. I look forward to connect.
 
-- 🔭 I’m currently working on **Sales Dataset**
+- 🔭 I’m currently working on **Sales and Marketing Dataset**
 
-- 👯 I’m looking to collaborate on **Service Evaluation in the corporate world**
+- 👯 I’m looking to collaborate on **Marketing Datasets**
 
 - ⚡ Fun fact **I love reading**
 
